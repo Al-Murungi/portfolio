@@ -30,7 +30,7 @@ export default function HeroSection() {
       <div className="max-w-4xl mx-auto text-center z-10">
         {/* Hero Title */}
         <div className="animate-fade-up">
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground mb-4 text-balance">Your Name</h1>
+          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground mb-4 text-balance">Alice Murungi</h1>
           <p className="text-xl sm:text-2xl text-primary mb-2 font-semibold">Designer, Creator & Storyteller</p>
         </div>
 
